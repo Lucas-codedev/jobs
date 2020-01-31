@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Bot_Mega.exe
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Bot_Mega.deps.json
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Bot_Mega.runtimeconfig.json
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Bot_Mega.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Bot_Mega.dll
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Bot_Mega.pdb
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\obj\Debug\netcoreapp3.1\Bot_Mega.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\obj\Debug\netcoreapp3.1\Bot_Mega.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\obj\Debug\netcoreapp3.1\Bot_Mega.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\obj\Debug\netcoreapp3.1\Bot_Mega.dll
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\obj\Debug\netcoreapp3.1\Bot_Mega.pdb
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Bot\Bot_Mega-Sena\Bot_Mega\obj\Debug\netcoreapp3.1\Bot_Mega.csproj.CopyComplete
